@@ -39,9 +39,9 @@
 ```
 cd crm-dashboard && docker-compose up
 ```
-
 <p>
-O aplicativo estará disponível em http://localhost:8080/
+O aplicativo estará disponível em http://localhost:8080/home
+Para ver as  Filas de processamento, basta acessar http://localhost:4000/jobs
 </p>
 
 <h2 align="center" id="stacks-utilizadas">Configurando o insomnia</h2>
